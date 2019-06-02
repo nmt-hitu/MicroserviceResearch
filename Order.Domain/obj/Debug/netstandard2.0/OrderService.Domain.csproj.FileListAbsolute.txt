@@ -1,0 +1,9 @@
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\obj\Debug\netstandard2.0\OrderService.Domain.csprojAssemblyReference.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\obj\Debug\netstandard2.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\obj\Debug\netstandard2.0\OrderService.Domain.AssemblyInfoInputs.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\obj\Debug\netstandard2.0\OrderService.Domain.AssemblyInfo.cs
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\bin\Debug\netstandard2.0\OrderService.Domain.deps.json
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\bin\Debug\netstandard2.0\OrderService.Domain.dll
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\bin\Debug\netstandard2.0\OrderService.Domain.pdb
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\obj\Debug\netstandard2.0\OrderService.Domain.dll
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\Order.Domain\obj\Debug\netstandard2.0\OrderService.Domain.pdb

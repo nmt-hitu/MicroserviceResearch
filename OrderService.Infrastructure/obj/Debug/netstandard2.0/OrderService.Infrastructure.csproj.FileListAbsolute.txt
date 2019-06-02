@@ -1,0 +1,12 @@
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\bin\Debug\netstandard2.0\OrderService.Infrastructure.deps.json
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\bin\Debug\netstandard2.0\OrderService.Infrastructure.dll
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\bin\Debug\netstandard2.0\OrderService.Infrastructure.pdb
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\obj\Debug\netstandard2.0\OrderService.Infrastructure.csprojAssemblyReference.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\obj\Debug\netstandard2.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\obj\Debug\netstandard2.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\obj\Debug\netstandard2.0\OrderService.Infrastructure.AssemblyInfo.cs
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\obj\Debug\netstandard2.0\OrderService.Infrastructure.dll
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\obj\Debug\netstandard2.0\OrderService.Infrastructure.pdb
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\bin\Debug\netstandard2.0\OrderService.Domain.dll
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\bin\Debug\netstandard2.0\OrderService.Domain.pdb
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Infrastructure\obj\Debug\netstandard2.0\OrderService.Infrastructure.csproj.CopyComplete

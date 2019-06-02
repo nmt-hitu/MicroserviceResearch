@@ -1,0 +1,14 @@
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\bin\Debug\netcoreapp2.2\OrderService.Api.deps.json
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\bin\Debug\netcoreapp2.2\OrderService.Api.runtimeconfig.json
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\bin\Debug\netcoreapp2.2\OrderService.Api.runtimeconfig.dev.json
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\bin\Debug\netcoreapp2.2\OrderService.Api.dll
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\bin\Debug\netcoreapp2.2\OrderService.Api.pdb
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.csprojAssemblyReference.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.csproj.CoreCompileInputs.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.RazorAssemblyInfo.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.RazorAssemblyInfo.cs
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.AssemblyInfoInputs.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.AssemblyInfo.cs
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.RazorTargetAssemblyInfo.cache
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.dll
+D:\Minh Tu\Microservice\MicroserviceHandsomeAvengers\MicroserviceResearch\OrderService.Api\obj\Debug\netcoreapp2.2\OrderService.Api.pdb

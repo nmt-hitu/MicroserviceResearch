@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\Order.Domain\\OrderService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\Order.Domain\\OrderService.Domain.csproj",
+        "projectName": "OrderService.Domain",
+        "projectPath": "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\Order.Domain\\OrderService.Domain.csproj",
+        "packagesPath": "C:\\Users\\tu.nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\Order.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tu.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+        "projectName": "OrderService.Infrastructure",
+        "projectPath": "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tu.nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\OrderService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tu.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\Order.Domain\\OrderService.Domain.csproj": {
+                "projectPath": "D:\\Minh Tu\\Microservice\\MicroserviceHandsomeAvengers\\MicroserviceResearch\\Order.Domain\\OrderService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.2.5, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
