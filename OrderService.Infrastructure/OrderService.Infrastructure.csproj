@@ -9,8 +9,4 @@
     <PackageReference Include="NHibernate" Version="5.2.5" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Order.Domain\OrderService.Domain.csproj" />
-  </ItemGroup>
-
 </Project>
